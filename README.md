@@ -1,5 +1,5 @@
 # Platform_Flutter_Firebase
-Aplicativo Flutter criado com "flutter_bloc" para implementar login voltado a serviços para gestão ambiental utilizando o Firebase.
+Aplicativo Web Flutter criado com "flutter_bloc" para implementar login voltado a serviços para gestão ambiental utilizando o Firebase.
 
 ## Necessário
 
