@@ -3,9 +3,9 @@ Aplicativo Flutter criado com "flutter_bloc" para implementar login voltado a se
 
 ## Necessário
 
--Fazer login com o Google
+-Fazer login com o Google<br />
 
--Cadastrar com e-mail e senha
+-Cadastrar com e-mail e senha<br />
 
 -Entrar com e-mail e senha
 
