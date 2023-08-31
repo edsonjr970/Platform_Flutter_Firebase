@@ -3,7 +3,7 @@ Aplicativo Web Flutter criado com "flutter_bloc" para implementar login voltado 
 
 ## Necessário
 
--Fazer login com o Google<br />
+*Fazer login com o Google<br />
 
 -Cadastrar com e-mail e senha<br />
 
